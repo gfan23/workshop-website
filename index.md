@@ -18,4 +18,5 @@ This is an example website built while learning how to use Jekyll and Github Pag
 
 More details about the project are available from the [About page](about.md).
 
-If you have questions: [we'd love to hear from you](mailto: {{ site.email}})
+{% include footer.html %}
+
