@@ -1,6 +1,6 @@
 # About
 
-[Go Home] (index.md)
+[Go Home](index.md)
 
 ## Project
 This research project is all about teaching you how to create websites with GitHub pages.
