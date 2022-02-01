@@ -1,5 +1,5 @@
 ---
-layout: default
+layout:default
 Title: "about this website in the YAML HEADER"
 author: "gfan23"
 ---
