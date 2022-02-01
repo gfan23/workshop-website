@@ -23,7 +23,3 @@ You can cite the project as:
 
 {% include footer.html %}
 
-## Contact us
-
-- Email: [team@carpentries.org](mailto:team@carpentries.org)
-- Twitter: [@thecarpentries](https://twitter.com/thecarpentries)
