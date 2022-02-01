@@ -1,3 +1,9 @@
+---
+layout: default
+author: "gfan23"
+Title: "about this website in teh YAML Header"
+---
+
 # About
 
 [Go Home](index.md)
