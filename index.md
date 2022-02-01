@@ -1,8 +1,13 @@
+...
+layout: home
+title: "My First Homepage"
+author: "gfan23"
+
+
+...
 
 # My homepage
 My first homepage for carpentries
-
-# Building websites in github
 
 ## Description
 This is an example website built while learning how to use Jekyll and Github Pages.
