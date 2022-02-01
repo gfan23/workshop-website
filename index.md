@@ -5,6 +5,8 @@ author: "gfan23"
 
 ---
 
+{% include navigation.html %}
+
 # My homepage
 My first homepage for carpentries
 
