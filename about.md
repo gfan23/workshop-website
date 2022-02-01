@@ -4,8 +4,6 @@ Title: "about this website in the YAML HEADER"
 author: "gfan23"
 ---
 
-# About
-
 [Go Home](index.md)
 
 ## Project
