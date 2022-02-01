@@ -1,10 +1,9 @@
-...
+---
 layout: home
 title: "My First Homepage"
 author: "gfan23"
 
-
-...
+---
 
 # My homepage
 My first homepage for carpentries
