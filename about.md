@@ -1,7 +1,7 @@
 ---
 layout: default
 author: "gfan23"
-Title: "about this website in teh YAML Header"
+Title: "about this website in the YAML HEADER"
 ---
 
 # About
