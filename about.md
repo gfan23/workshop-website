@@ -4,6 +4,8 @@ author: "gfan23"
 Title: "about this website in the YAML HEADER"
 ---
 
+{% include navigation.html %}
+
 # About
 
 [Go Home](index.md)
