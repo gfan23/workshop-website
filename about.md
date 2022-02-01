@@ -1,5 +1,5 @@
 ---
-layout: defalt
+layout: default
 author: "gfan23"
 Title: "about this website in the YAML HEADER"
 ---
